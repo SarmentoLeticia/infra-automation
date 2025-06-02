@@ -58,7 +58,7 @@ Acesse: [http://localhost:3000/docs](http://localhost:3000/docs) para testar os 
 
 Desenvolvido por Letícia Sarmento da Silva
 
-## 📝 Licença
+## Licença
 
 Este projeto está licenciado sob a licença MIT.  
 Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
