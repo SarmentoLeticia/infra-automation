@@ -1,0 +1,30 @@
+# ========================
+# Arquivos e pastas Python
+# ========================
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ========================
+# Ambiente virtual Python
+# ========================
+bin/
+lib/
+Include/
+Scripts/
+pyvenv.cfg
+.venv/
+venv/
+
+# ========================
+# Arquivos sensíveis
+# ========================
+ca.pem
+login.json
+
+# ========================
+# Pastas do projeto a ignorar
+# ========================
+funções/
